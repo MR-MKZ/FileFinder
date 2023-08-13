@@ -1,0 +1,6 @@
+tqdm
+fuzzywuzzy
+psutil
+flask
+celery
+python-Levenshtein

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Done</title>
+    <style>
+        body {
+            background: url("/static/images/bg.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            font-family: "Microsoft New Tai Lue";
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        h1 {
+            color: white;
+        }
+
+        a {
+            width: 90px;
+            height: 40px;
+            border-radius: 4px;
+            background: #1143df;
+            color: white;
+            text-decoration: none;
+            cursor: pointer;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        div {
+            max-width: 1280px;
+            height: 600px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>File {{ result_id }} opened successfully</h1>
+        <a href="/Releases/Web%20Version/static">Home</a>
+    </div>
+</body>
+</html>

@@ -30,7 +30,7 @@ Download the console version lastest release or other versions from [releases pa
 Go to the project directory
 
 ```bash
-  cd FileFinder
+  cd 'Console Version'
 ```
 
 Install dependencies
@@ -59,7 +59,7 @@ Download the web version lastest release or other versions from [releases page](
 Go to the project directory
 
 ```bash
-  cd FileFinder
+  cd 'Web Version
 ```
 
 Install dependencies

@@ -4,3 +4,4 @@ psutil
 flask
 celery
 python-Levenshtein
+plyer

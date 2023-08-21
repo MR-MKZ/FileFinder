@@ -1,0 +1,5 @@
+tqdm
+fuzzywuzzy
+psutil
+python-Levenshtein
+plyer

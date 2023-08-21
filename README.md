@@ -45,6 +45,8 @@ Run program
   python main.py
 ```
 
+or run with double click on batch file FileFinder.bat
+
 
 ## Run FileFinder *Web Version*
 

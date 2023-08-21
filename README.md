@@ -22,7 +22,7 @@ File Finder is a python app who with the help of this program, you can find all 
 
 Installing FileFinder is very very ease, Just need download a [release](https://github.com/MR-MKZ/FileFinder/releases) version who you want and extract it.
 
-[FileFinder v1.0](https://github.com/MR-MKZ/FileFinder/releases/tag/v1.0)
+Lastest: [FileFinder v1.1](https://github.com/MR-MKZ/FileFinder/releases/tag/v1.1)
 ## Run FileFinder *Console Version*
 
 Download the console version lastest release or other versions from [releases page](https://github.com/MR-MKZ/FileFinder/releases)
